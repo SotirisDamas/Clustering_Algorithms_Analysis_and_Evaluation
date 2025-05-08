@@ -1,4 +1,5 @@
-# COMP 6651 — Clustering Algorithms Project (Winter 2025)
+
+# Clustering Algorithms: Complexity Analysis and Experimental Evaluation Project (Winter 2025)
 
 **Concordia University – Department of Computer Science & Software Engineering**  
 Course: *COMP 6651 NN – Algorithm Design Techniques*  
@@ -7,7 +8,8 @@ Team: *Divyesh Pravinkumar Patel, Farid Faraji, Nitheesh Kumar Kambala, Sotirios
 ---
 
 ## 1. Project Overview
-This two-part project is a deep dive into classical and modern **clustering algorithms**.  
+This two-part project is a deep dive into classical and modern **clustering algorithms**, combining rigorous complexity analyses with practical implementations.  
+
 We:
 
 * **Studied, derived, and analysed** nine algorithms and seven evaluation metrics in a formal IEEE-style report (Part I).  
