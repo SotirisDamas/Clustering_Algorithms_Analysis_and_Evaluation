@@ -1,5 +1,5 @@
 
-# Clustering Algorithms: Complexity Analysis and Experimental Evaluation Project (Winter 2025)
+# Clustering Algorithms: Complexity Analysis and Experimental Evaluation Project
 
 **Concordia University – Department of Computer Science & Software Engineering**  
 Course: *COMP 6651 NN – Algorithm Design Techniques*  
